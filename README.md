@@ -15,7 +15,6 @@ To get started developing right away:
 ├── README.md - This file.
 ├── SEARCH_TERMS.md # The whitelisted short collection of available search terms for you to use with your app.
 ├── package.json
-├── .igitignore # Git ignore for this app ignoring files and directories like, node_modules
 ├── public
 │   ├── favicon.ico # React Icon, as it was.
 │   └── index.html # As it was
